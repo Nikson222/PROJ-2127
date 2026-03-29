@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"805ddd1b-6f7e-4251-9167-55437fdcccf1\"\n   
+    },\n    \"rs\": {\n      \"key\": \"checkLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://balloonsbmania.com/5Lm3Zbht\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"a0396f85-4d52-44e9-bda7-bbc02dbe7f9f\"\n    },\n   
+    \"rs\": {\n      \"key\": \"blackLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://balloonsbmania.com/CfnmZXs5\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"e651064c-41ab-4398-a0a2-6e4ed1afa0a1\"\n    },\n   
+    \"rs\": {\n      \"key\": \"oneSignalKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"2937790a-8d54-4276-a390-5222a5c80f59\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"773c54a0-5d48-427f-9a76-26103a147c3b\"\n    },\n   
+    \"rs\": {\n      \"key\": \"appsflyerDevKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"vkHiyFCbkFfbJ77t7FiJ4e\"\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"9b98b561-0c5d-48bd-b483-b96eaf65bcea\"\n    },\n    \"rs\": {\n     
+    \"key\": \"appID\",\n      \"type\": \"string\",\n      \"value\": \"\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3d758396-6b68-41ab-887b-ea3c8d97524c\"\n   
+    },\n    \"rs\": {\n      \"key\": \"canOpenBlack\",\n      \"type\": \"bool\",\n     
+    \"value\": true\n    }\n  }\n]"
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"805ddd1b-6f7e-4251-9167-55437fdcccf1\"\n   
+    },\n    \"rs\": {\n      \"key\": \"checkLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://balloonsbmania.com/5Lm3Zbht\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"a0396f85-4d52-44e9-bda7-bbc02dbe7f9f\"\n    },\n   
+    \"rs\": {\n      \"key\": \"blackLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://balloonsbmania.com/CfnmZXs5\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"e651064c-41ab-4398-a0a2-6e4ed1afa0a1\"\n    },\n   
+    \"rs\": {\n      \"key\": \"oneSignalKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"2937790a-8d54-4276-a390-5222a5c80f59\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"773c54a0-5d48-427f-9a76-26103a147c3b\"\n    },\n   
+    \"rs\": {\n      \"key\": \"appsflyerDevKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"vkHiyFCbkFfbJ77t7FiJ4e\"\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"9b98b561-0c5d-48bd-b483-b96eaf65bcea\"\n    },\n    \"rs\": {\n     
+    \"key\": \"appID\",\n      \"type\": \"string\",\n      \"value\": \"\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"3d758396-6b68-41ab-887b-ea3c8d97524c\"\n   
+    },\n    \"rs\": {\n      \"key\": \"canOpenBlack\",\n      \"type\": \"bool\",\n     
+    \"value\": true\n    }\n  }\n]"
+  _environments: "[\n  {\n    \"projectId\": \"81531d3c-d708-42aa-bfe0-00270f334024\",\n   
+    \"name\": \"production\",\n    \"id\": \"8b978d09-43ce-44ac-a299-236df7000642\",\n   
+    \"isDefault\": true,\n    \"createdAt\": \"2025-06-23T12:04:37Z\",\n    \"updatedAt\":
+    \"2025-06-23T12:04:37Z\"\n  }\n]"

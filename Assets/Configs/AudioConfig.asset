@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c808e2f077841b098257cda1244b34a, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  Sounds:
+  - Type: 0
+    Clip: {fileID: 8300000, guid: f6f8e8417f3e3284ba2c3b5c8694357c, type: 3}
+  - Type: 1
+    Clip: {fileID: 8300000, guid: a62359fda7b42f4438aa0378a5391cb8, type: 3}
+  - Type: 2
+    Clip: {fileID: 8300000, guid: f45416c44172f27418616131c8187db4, type: 3}
+  - Type: 3
+    Clip: {fileID: 8300000, guid: 864e12c141d91ae459223ad691aa499e, type: 3}
+  - Type: 4
+    Clip: {fileID: 8300000, guid: c94dc2c068053224f8b39219792b2d90, type: 3}
+  MusicClips:
+  - {fileID: 8300000, guid: ec8dca4b3a2cb7b489eb1ef7046f5237, type: 3}
+  - {fileID: 8300000, guid: a0a4abe92919b3a4aab82e8a27a67391, type: 3}
+  StartMusicVolume: 0.15
+  StartSoundVolume: 0.7
